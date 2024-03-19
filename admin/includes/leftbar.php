@@ -18,12 +18,8 @@
 			</li>
 			<li><a href="csv.php"><i class="fa fa-download"></i> &nbsp;Csv</a>
 			</li>
+			<li><a href="graphic.php"><i class="fa fa-download"></i> &nbsp;Csv</a>
+			</li>
 			</ul>
 			<p class="text-center" style="color:#ffffff; margin-top: 100px;">© Ajay</p>
 		</nav>
-
-		
-
-
-
-
